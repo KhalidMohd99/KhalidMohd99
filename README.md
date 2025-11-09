@@ -3,7 +3,9 @@
 <img src= github-banner.png>
 
 # 💫 About Me:
-I am Currently Working on:<br>•	Geospatial Project Management & AI Optimization – built n8n workflows and AI decision tools for Chad Geo Resource Co. LTD.<br>•	AI-Powered Geospatial Market Analysis – created Perplexity AI + GIS dashboard for global mineral marketing.<br>
+I am currently working on:<br>•	Geospatial Project Management & AI Optimization<br>•	AI-Powered Geospatial Market Analysis.<br>
+
+
 
 
 ## 🌐 Socials:
