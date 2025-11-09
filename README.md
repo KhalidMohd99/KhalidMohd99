@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img scr= "github-banner.png"
+github-banner.png
