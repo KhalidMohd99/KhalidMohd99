@@ -5,7 +5,7 @@
 I bridge the gap between **Geospatial Data Science**, **AI Optimization**, and **Visual Storytelling** to help organizations and businesses make data-backed location and market decisions.
 
 ---
-<img src="2.png" alt="Khalid Mohd Banner" width="100%" />
+<img src="3.png" alt="Khalid Mohd Banner" width="100%" />
 ---
 
 
